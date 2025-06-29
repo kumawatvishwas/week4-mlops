@@ -1,1 +1,3 @@
-data/
+/metrics.json
+artifacts/
+/metrics.json.dvc
